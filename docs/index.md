@@ -552,7 +552,7 @@ Now let's take a look at the actual RISCV instructions using
 
 See if you can find the instructions that correspond to the `avg`
 function. See if you can figure out how the C code maps to these RISCV
-instructions. Use the TinyRV2 instructino set architecture manual located
+instructions. Use the TinyRV2 instruction set architecture manual located
 here:
 
  - <https://www.csl.cornell.edu/courses/ece4750/handouts/ece4750-tinyrv-isa.txt>
